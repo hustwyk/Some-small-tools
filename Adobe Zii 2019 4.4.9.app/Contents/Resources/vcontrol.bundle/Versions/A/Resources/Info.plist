@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildDate</key>
+	<string>2019/04/09-01:07:39</string>
+	<key>BuildID</key>
+	<string>43383</string>
+	<key>BuildVersion</key>
+	<string>79.608922</string>
+	<key>CFBundleExecutable</key>
+	<string>AdobeBIB</string>
+	<key>CFBundleGetInfoString</key>
+	<string>AdobeBIB 1.2.03.43383, Copyright 2012 Adobe Systems Incorporated.</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adobe.BIB</string>
+	<key>CFBundleName</key>
+	<string>AdobeBIB</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleShortVersionString</key>
+	<string>AdobeBIB 1.2.03.43383</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.2.03.43383</string>
+	<key>Configuration</key>
+	<string>BIB Release MT</string>
+</dict>
+</plist>
