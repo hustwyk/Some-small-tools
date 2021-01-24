@@ -1,0 +1,10 @@
+_InitializeAdobeHelpClient
+#_ValidateAdobeHelpClientPageId
+_DisplayAdobeHelpClientPage
+_GetAdobeHelpClientVersion
+_GetAdobeHelpClientOnlineStatus
+_AdobeHelpEncodeURIComponent
+_SearchHelp
+_SearchHelpv2
+_OpenURL
+_ReleaseURLMemory

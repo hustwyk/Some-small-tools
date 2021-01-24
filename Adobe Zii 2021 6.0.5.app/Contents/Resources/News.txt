@@ -1,0 +1,34 @@
+Current version 6.0.5
+
+Added:
+Adobe Acrobat DC v20.013.20074
+Adobe Animate 2021 v21.0.1
+Adobe Lightroom Classic v10.1
+Adobe Media Encoder 2020 v14.7
+Adobe Photoshop 2021 v22.1.0
+Adobe Premiere Pro 2020 v14.7
+Adobe Premiere Rush v1.5.40
+Adobe XD v35.2.12
+
+Supported Products:
+Adobe Acrobat DC v20.012.20048 - 20.013.20074
+Adobe After Effects 2020 v17.5 - 17.5.1
+Adobe Animate 2021 v21.0.0 - 21.0.1
+Adobe Audition 2020 v13.0.11 - 13.0.12
+Adobe Bridge 2021 v11.0.0
+Adobe Character Animator 2020 v3.4
+Adobe Dimension v3.4
+Adobe Dreamweaver 2021 v21.0.0
+Adobe Illustrator 2021 v25.0.0 - 25.0.1
+Adobe InCopy 2021 v16.0.0 - 16.0.1
+Adobe InDesign 2021 v16.0.0 - 16.0.1
+Adobe Lightroom Classic v10.0 - 10.1
+Adobe Media Encoder 2020 v14.5 - 14.7
+Adobe Photoshop 2021 v22.0.0 - 22.1.0
+Adobe Prelude 2020 v9.0.1 - 9.0.2
+Adobe Premiere Pro 2020 v14.5 - 14.7
+Adobe Premiere Rush v1.5.34 - 1.5.40
+Adobe XD v34.0.12 - 35.2.12
+
+Adobe Photoshop Elements 2021
+Adobe Premiere Elements 2021
