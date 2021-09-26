@@ -1,0 +1,42 @@
+Current version 6.1.6
+
+Added:
+After Effects 2021 v18.4.1
+Animate 2021 v21.0.8
+Bridge 2021 v11.1.1
+Illustrator v25.4.1
+InCopy 2021 v16.4
+InDesign 2021 v16.4
+Lightroom Classic v10.4
+Media Encoder 2021 v15.4.1
+Photoshop 2021 v22.5
+Premiere Pro 2021 v15.4.1
+XD v42.1.22
+
+Supported Products:
+Acrobat DC v20.012.20048 - 21.005.20058
+After Effects 2021 v18.0 - 18.4.1
+Animate 2021 v21.0.0 - 21.0.8
+Audition 2021 v14.0 - 14.4
+Bridge 2021 v11.0.0 - 11.1.1
+Character Animator 2021 v4.0 - 4.4
+Dimension v3.4.0 - 3.4.3
+Dreamweaver 2021 v21.0.0 - 21.1
+Illustrator 2021 v25.0.0 - 25.4.1
+InCopy 2021 v16.0.0 - 16.4
+InDesign 2021 v16.0.0 - 16.4
+InDesign Server 2021 v16.2.1
+Lightroom Classic v10.0 - 10.4
+Media Encoder 2021 v15.0 - 15.4.1
+Photoshop 2021 v22.0.0 - 22.5
+Prelude 2021 v10.0 - 10.1
+Premiere Pro 2021 v15.0 - 15.4.1
+Premiere Rush v1.5.34 - 1.5.62
+Substance 3D Designer v11.2 - 11.2.1
+Substance 3D Painter v7.2 - 7.2.2
+Substance 3D Sampler v3.0 - 3.0.1
+Substance 3D Stager v1.0 - 1.0.1
+XD v34.0.12 - 42.1.22
+
+Photoshop Elements 2021 - 2021.2
+Premiere Elements 2021 - 2021.1
